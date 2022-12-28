@@ -16,7 +16,7 @@
 
 <img src="https://raw.githubusercontent.com/yositasriwuttisap/Semester-2-2565/main/media/%E0%B8%8A%E0%B8%A7%E0%B8%B1%E0%B8%8A%E0%B8%A3%E0%B9%8C%E0%B8%8A%E0%B8%B1%E0%B8%A2.jpg" width=50% height=50%>
 
-5. 633020995-4	 นายกันยรัตน์ ยุทธชมภู			Section 1			username : NickKanyarat
+5. 633020995-4	 นางสาวกันยรัตน์ ยุทธชมภู			Section 1			username : NickKanyarat
 <img src="https://raw.githubusercontent.com/yositasriwuttisap/Semester-2-2565/main/media/%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%A2%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C.jpg" width=50% height=50%>
 
 
