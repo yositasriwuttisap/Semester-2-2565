@@ -1,4 +1,4 @@
-<h1>Memeber</h1>
+<h1>Member</h1>
 
 1. 623020489-8	 นายรัตนชัย ทีฆะทิพย์สกุล		Section 1		username: rattanachaikku
 
